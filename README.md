@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yunzhong1105
+- 👋 Hi, I’m YunZhong Jiang
 - 👀 I’m interested in basketball.
 - 🌱 I’m currently learning C++ & computer vision.
 - 📫 How to reach me yunzhong1105@gmail.com
